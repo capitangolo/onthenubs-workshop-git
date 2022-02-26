@@ -4,7 +4,7 @@ En este repositorio está el código del tutorial de GIT que hiciemos en directo
 
 ## GIT
 
-Git es un sistema de control de versiones.
+Git es una fumada brutal.
 
 Git es distribuído.
 
