@@ -4,7 +4,7 @@ En este repositorio está el código del tutorial de GIT que hiciemos en directo
 
 ## GIT
 
-Git es el sistema de control de versiones que utiliza el proyecto Linux.
+Git es el sistema de control de versiones que utiliza el proyecto Linux. Por cierto, es una fumada brutal.
 
 Git es distribuído.
 
